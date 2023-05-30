@@ -1,7 +1,9 @@
-### Hi there 👋 , I'm [Tan Caken](https://www.github.com/tcaken) <p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=tcaken" alt="visitor badge"/></p>
+## Hi there 👋 , I'm [Tan Caken](https://www.github.com/tcaken) 
+
+### You can take a look at my [website](http://www.cakentan.net/) <p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=tcaken" alt="visitor badge"/></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-tcaken-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tcaken/)](https://www.linkedin.com/in/tcaken/)
-[![Website Badge](https://img.shields.io/badge/-tcaken-darkgreen?style=flat-square&logo=Safari&logoColor=white&link=http://tcaken.com)](http://www.cakentan.net/)
+[![Website Badge](https://img.shields.io/badge/-tcaken-darkgreen?style=flat-square&logo=Safari&logoColor=white&link=http://cakentan.net)](http://www.cakentan.net/)
 [![Medium Badge](https://img.shields.io/badge/-tcaken-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@cakentann)](https://medium.com/@cakentan)
 [![Telegram Badge](https://img.shields.io/badge/-tcaken-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://telegram.org/@band_height)](https://telegram.org/@band_height)
 [![GitHub followers](https://img.shields.io/github/followers/tcaken?style=social)](https://www.github.com/tcaken)
@@ -28,7 +30,3 @@ I like to learn new things from others as much as helping others solve their pro
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,python,flask,git,github,githubactions,aws,docker,nginx)](https://skillicons.dev)
 
 <hr>
-
-## AWS Cloud Resume
-
-You can visit my [newest project](https://github.com/TCaken/AWS-Cloud-Resume-Challenge)
