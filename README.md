@@ -1,11 +1,11 @@
 ## Hi there 👋 , I'm [Tan Caken](https://www.github.com/tcaken) 
 
-### You can take a look at my [website](http://www.cakentan.net/) <p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=tcaken" alt="visitor badge"/></p>
+### Here is my [website](http://www.cakentan.net/) <p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=tcaken" alt="visitor badge"/></p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-tcaken-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tcaken/)](https://www.linkedin.com/in/tcaken/)
-[![Website Badge](https://img.shields.io/badge/-tcaken-darkgreen?style=flat-square&logo=Safari&logoColor=white&link=http://cakentan.net)](http://www.cakentan.net/)
-[![Medium Badge](https://img.shields.io/badge/-tcaken-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@cakentann)](https://medium.com/@cakentan)
-[![Telegram Badge](https://img.shields.io/badge/-tcaken-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://telegram.org/@band_height)](https://telegram.org/@band_height)
+[![Linkedin Badge](https://img.shields.io/badge/-CakenTan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tan-caken-350275181/)](https://www.linkedin.com/in/tan-caken-350275181/)
+[![Website Badge](https://img.shields.io/badge/-Caken-darkgreen?style=flat-square&logo=Safari&logoColor=white&link=http://cakentan.net)](http://www.cakentan.net/)
+[![Medium Badge](https://img.shields.io/badge/-Caken-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@cakentann)](https://medium.com/@cakentan)
+[![Telegram Badge](https://img.shields.io/badge/-CakenTan-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://telegram.org/@band_height)](https://telegram.org/@band_height)
 [![GitHub followers](https://img.shields.io/github/followers/tcaken?style=social)](https://www.github.com/tcaken)
 [![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17502%26project%3D%26in%3D0)](https://codetime.dev)
 
