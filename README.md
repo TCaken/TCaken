@@ -7,7 +7,7 @@
 [![Medium Badge](https://img.shields.io/badge/-Caken-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@cakentann)](https://medium.com/@cakentan)
 [![Telegram Badge](https://img.shields.io/badge/-CakenTan-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://telegram.org/@band_height)](https://telegram.org/@band_height)
 [![GitHub followers](https://img.shields.io/github/followers/tcaken?style=social)](https://www.github.com/tcaken)
-[![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17502%26project%3D%26in%3D0)](https://codetime.dev)
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D17502)](https://codetime.dev)
 
 <hr>
 
